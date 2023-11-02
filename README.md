@@ -1,2 +1,2 @@
 # Gazebo-Simulation
-Robotic Digital Twin Dataset Simulation with Gazebo
+Digital Twin Dataset Simulation with Gazebo
